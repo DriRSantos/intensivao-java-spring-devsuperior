@@ -96,11 +96,11 @@ public class Game {
 		this.score = score;
 	}
 
-	public String getImdUrl() {
+	public String getImgUrl() {
 		return imgUrl;
 	}
 
-	public void setImdUrl(String imdUrl) {
+	public void setImgUrl(String imdUrl) {
 		this.imgUrl = imdUrl;
 	}
 
@@ -135,5 +135,5 @@ public class Game {
 			return false;
 		Game other = (Game) obj;
 		return Objects.equals(id, other.id);
-	}	
+	}
 }
