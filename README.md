@@ -24,7 +24,7 @@
 
 ## Screenshots
 
-![GetGameMinDTO|400x230](https://github.com/DriRSantos/intensivao-java-spring-devsuperior/blob/main/dslist/images/postman-get-request-GameMinDTO.jpg?raw=true)
+![GetGameMinDTO](https://github.com/DriRSantos/intensivao-java-spring-devsuperior/blob/main/dslist/images/postman-get-request-GameMinDTO.jpg?raw=true){: width="50%"}
 
 ##Badges
 
