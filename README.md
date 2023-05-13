@@ -24,9 +24,9 @@
 
 ## Screenshots
 
-![GetGameMinDTO](https://github.com/DriRSantos/intensivao-java-spring-devsuperior/blob/main/dslist/images/postman-get-request-GameMinDTO.jpg?raw=true){: width="50%"}
+<img src="https://github.com/DriRSantos/intensivao-java-spring-devsuperior/blob/main/dslist/images/postman-get-request-GameMinDTO.jpg?raw=true" width="450" height="248">
 
-##Badges
+<img src="https://github.com/DriRSantos/intensivao-java-spring-devsuperior/blob/main/dslist/images/findbyid-GameDTO.jpg?raw=true" width="450" height="248">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
