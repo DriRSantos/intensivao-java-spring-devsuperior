@@ -22,7 +22,11 @@
 - Processo de deploy com CI/CD
 - Configuração de CORS
 
-## Etiquetas
+## Screenshots
+
+![GetGameMinDTO|400x230](https://github.com/DriRSantos/intensivao-java-spring-devsuperior/blob/main/dslist/images/postman-get-request-GameMinDTO.jpg?raw=true)
+
+##Badges
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
