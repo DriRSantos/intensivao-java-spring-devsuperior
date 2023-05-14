@@ -24,9 +24,19 @@
 
 ## Screenshots
 
+### GameMinDTO findAll()
+
 <img src="https://github.com/DriRSantos/intensivao-java-spring-devsuperior/blob/main/dslist/images/postman-get-request-GameMinDTO.jpg?raw=true" width="450" height="248">
 
+### GameDTO findbyid()
+
 <img src="https://github.com/DriRSantos/intensivao-java-spring-devsuperior/blob/main/dslist/images/findbyid-GameDTO.jpg?raw=true" width="450" height="248">
+
+### GameList findAll()
+<img src="https://github.com/DriRSantos/intensivao-java-spring-devsuperior/blob/main/dslist/images/findAll-GameList.jpg?raw=true" width="450" height="248">
+
+### SQL Query projection
+<img src="https://github.com/DriRSantos/intensivao-java-spring-devsuperior/blob/main/dslist/images/customized-sql-query-games-by-list-GameMinProjection.jpg?raw=true" width="450" height="248">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
